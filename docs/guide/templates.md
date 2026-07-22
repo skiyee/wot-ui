@@ -32,7 +32,7 @@ pnpm dev
 
 ## oiyo-starter
 
-⚡ [oiyo-starter](https://github.com/wot-ui/oiyo-starter) 是一个由 [oiyo](https://oiyo.js.org) 框架赋能 `Wot Stater` 变体的快速启动模板。它由 `Wot UI` 团队维护，强约定、低配置、对 AI 协作友好，具有颠覆性创新。
+⚡ [oiyo-starter](https://github.com/wot-ui/oiyo-starter) 是一个由 [oiyo](https://oiyo.js.org) 框架赋能 `Wot Starter` 变体的快速启动模板。它由 `Wot UI` 团队维护，强约定、低配置、对 AI 协作友好，具有颠覆性创新。
 
 直接拉取不含 git 记录的纯净模板：
 
